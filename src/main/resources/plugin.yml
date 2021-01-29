@@ -1,0 +1,14 @@
+name: RegionSigns
+main: io.github.tacticalaxis.regionsigns.RegionSigns
+version: 1.0
+description: A plugin that shows non-rented regions on signs
+author: NathanD256
+prefix: RS
+depend: [AreaShop]
+commands:
+  rs:
+    description: Main command
+    usage: /<command>
+  setsign:
+    description: Set sign command
+    usage: /<command>

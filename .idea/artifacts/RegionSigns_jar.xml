@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RegionSigns:jar">
+    <output-path>$PROJECT_DIR$/../../../../../../TestingServer1.8.8/plugins</output-path>
+    <root id="archive" name="RegionSigns.jar">
+      <element id="module-output" name="RegionSigns" />
+    </root>
+  </artifact>
+</component>
